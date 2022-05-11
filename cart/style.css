@@ -194,7 +194,7 @@ body {
   position: absolute;
   right: 12px;
   top: 17px;
-  background: url(../images/cart/closeIcon.svg) no-repeat;
+  background: url(images/closeIcon.svg) no-repeat;
   background-size: 100%;
 }
 
